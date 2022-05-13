@@ -13,8 +13,6 @@ const prodConfig = {
       exposes: {
         './MarketingApp': './src/bootstrap',
       },
-      //ignoring shared
-      //      shared:
     }),
   ],
 }
