@@ -22,4 +22,3 @@ module.exports = {
     }),
   ],
 }
-// to trigger new build
