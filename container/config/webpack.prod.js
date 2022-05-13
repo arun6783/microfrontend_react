@@ -16,8 +16,6 @@ const prodConfig = {
       remotes: {
         marketing: `marketing@${domain}/marketing/remoteEntry.js`,
       },
-      //ignoring shared
-      //      shared:
     }),
   ],
 }
