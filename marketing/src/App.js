@@ -12,6 +12,7 @@ const generateClassName = createGenerateClassName({
   productionPrefix: 'ma',
 })
 
+console.log('inmarketingapp')
 export default ({ history }) => {
   return (
     <div>
